@@ -21,15 +21,10 @@ This project demonstrates automated server provisioning and configuration manage
 
 ## Architecture Diagram
 
-```mermaid
-graph TD
-    A[Ansible Controller] --> B[Web Server]
-    A --> C[Database Server]
-    A --> D[Common Configuration]
 
+## 📂 Project Structure
 
-Project Structure
-
+```text
 ansible-automation/
 │── playbooks/
 │   ├── site.yml
