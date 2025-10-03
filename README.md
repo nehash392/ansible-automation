@@ -51,10 +51,10 @@ ansible-automation/
 │── ansible.cfg
 │── README.md
 │── .gitignore
+```
 
 
-
-Getting Started
+## Getting Started
 
 1. Prerequisites
 
@@ -69,7 +69,7 @@ ansible-playbook playbooks/site.yml
 ansible all -m ping
 
 
-Learning Objectives :
+## Learning Objectives :
 
 Automate server provisioning
 Implement configuration management
